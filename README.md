@@ -28,9 +28,8 @@ Fornire agli utenti un marketplace urbano leggero per oggetti di piccola entità
 
 ## Monetizzazione (opzionale)
 
-* Fee minima sulle transazioni digitali (es. 5%).
-* Promozioni locali: mettere in evidenza oggetti o venditori per un breve periodo.
-* Modello freemium o sponsorizzazioni locali.
+* **Premium:** se un utente vuole pubblicare più di 5 oggetti contemporaneamente, deve passare a piano premium.
+* Modello freemium semplice, senza fee sulle transazioni.
 
 ## Struttura dell’app (concept MVP)
 
